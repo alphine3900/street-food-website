@@ -319,7 +319,7 @@ p {
 
 .container {
  max-width: auto;
- margin: auto;
+ margin: -10px;
  background-color: rgb(216, 206, 206);
  }
  
