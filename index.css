@@ -404,7 +404,7 @@ p {
  }
 -------
 -------
-box
+box-sizing: border-box;}
 body {
  margin: 0;
  padding: 0;
@@ -804,4 +804,7 @@ body {
  .footer-col ul li a:hover {
  color: #ffffff;
  padding-left: 9px;
+ }
+ #footer-col{
+     transform: translate(300px);
  }
