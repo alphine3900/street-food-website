@@ -1,8 +1,8 @@
-{
+/*{
 
     <<<<<<< HEAD 
     box-sizing: border-box;
-}
+}*/
 
 body {
  margin: 0;
@@ -402,9 +402,9 @@ p {
  color: #ffffff;
  padding-left: 9px;
  }
+/*/-------
 -------
--------
-box-sizing: border-box;}
+box-sizing: border-box;}*/
 body {
  margin: 0;
  padding: 0;
